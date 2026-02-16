@@ -25,7 +25,7 @@ The dataset used in this project contains [brief description of dataset].
 5. Model Evaluation
 
 ##  Results
-The final model achieved an accuracy of **[XX%]**.
+The final model achieved an accuracy of **[60%]**.
 
 ##  Future Improvements
 - Improve model performance
